@@ -1,4 +1,6 @@
 ## Technologies I'm familiar with
+<details><br>
+<summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
 
 ![Static Badge](https://img.shields.io/badge/HTML_%26_CSS-lang?logoColor=%23fff&labelColor=%23db3300&color=%23db3300)
 ![Static Badge](https://img.shields.io/badge/SASS_%26_LESS-lang?logoColor=%23fff&labelColor=%23c76494&color=%23c76494)
@@ -14,7 +16,11 @@
 ![Static Badge](https://img.shields.io/badge/Git-lang?logo=github&logoColor=%23fff&labelColor=%238A2BE2&color=%238A2BE2)
 ![Static Badge](https://img.shields.io/badge/Docker-lang?logo=docker&logoColor=%23fff&labelColor=%231d63ed&color=%231d63ed)
 
+</details>
+
 ## My Repositories
+<details>
+<summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
 
 ### 1. ChatGPT-Assistant
 
@@ -24,6 +30,7 @@
 ![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
 ![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
+
 
 ### 2. Discord-Message-Spammer
 
@@ -70,3 +77,5 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
 ![Static Badge](https://img.shields.io/badge/MaterialUI-lang?logo=mui&logoColor=%23fff&labelColor=%23007cf8&color=%23007cf8)
 ![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
+
+</details>
