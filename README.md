@@ -6,6 +6,7 @@
 
 <a href="https://github.com/FLEYreal/ChatGPT-Assistant"><img alt="ChatGPT-Assistant" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
+![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
 
 ### 2. Discord-Message-Spammer
 
@@ -15,9 +16,20 @@
 ![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
 
-<a href="https://github.com/FLEYreal/SAS-Discord-Bot"><img alt="SAS-Discord-Bot" src="https://img.shields.io/badge/SAS_Discord_Bot-repository?logo=discord&logoColor=%23ffffff&labelColor=%23e0a01f&color=%23e0a01f"></a>
+### 3. SAS-Discord-Bot
 
-<a href="https://github.com/FLEYreal/YouTube-Chat-Bot"><img alt="YouTube-Chat-Bot" src="https://img.shields.io/badge/YouTube_Chat_Bot-repository?logo=youtube&logoColor=%23ffffff&labelColor=%23eb2a2a&color=%23eb2a2a"></a>
+<blockquote>This is a discord bot, that uses API of steam and cs:go to get information about XP of the steam users, sends custom message to discord as XP updated!</blockquote>
+
+<a href="https://github.com/FLEYreal/SAS-Discord-Bot"><img alt="ChatGPT-Assistant" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
+![Static Badge](https://img.shields.io/badge/Python-lang?logo=python&logoColor=%23fff&labelColor=%23376c99&color=%23376c99)
+
+### 4. YouTube-Chat-Bot
+
+<blockquote>The chat-bot for streamers on youtube which monitors all user's messages and adds points for activity, saves these points to SQL database and then they can be used to buy stuff of the website</blockquote>
+
+<a href="https://github.com/FLEYreal/YouTube-Chat-Bot"><img alt="ChatGPT-Assistant" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
+![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
+![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
 
 <a href="https://github.com/FLEYreal/HatBuilders-Website"><img alt="HatBuilders-Website" src="https://img.shields.io/badge/HatBuilders_Website-repository?logo=github&logoColor=%23000000&labelColor=%2391eb2a&color=%2391eb2a"></a>
 
