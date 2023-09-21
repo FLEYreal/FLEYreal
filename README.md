@@ -1,4 +1,4 @@
-## Technologies I'm familiar with
+## 🔥 Technologies I'm familiar with
 <details><br>
 <summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
 
@@ -18,7 +18,7 @@
 
 </details>
 
-## My Repositories
+## 🔥 My Repositories
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
 
