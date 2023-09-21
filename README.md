@@ -1,6 +1,6 @@
 # The list of the repositories
 
-[ChatGPT-Assistant](https://github.com/FLEYreal/ChatGPT-Assistant)
+<a href="#" class="button">ChatGPT-Assistant (https://github.com/FLEYreal/ChatGPT-Assistant)</a>
 
 [Discord-Message-Spammer](https://github.com/FLEYreal/Discord-Message-Spammer)
 
