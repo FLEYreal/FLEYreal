@@ -1,6 +1,6 @@
 # The list of the repositories
 
-<a href="#" class="button">ChatGPT-Assistant (https://github.com/FLEYreal/ChatGPT-Assistant)</a>
+![Static Badge](https://img.shields.io/badge/ChatGPT_Assistant-repository?logo=openai&logoColor=%23ffffff&link=https%3A%2F%2Fgithub.com%2FFLEYreal%2FChatGPT-Assistant)
 
 [Discord-Message-Spammer](https://github.com/FLEYreal/Discord-Message-Spammer)
 
