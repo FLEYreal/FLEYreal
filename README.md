@@ -19,6 +19,7 @@
 </details>
 
 ## 🔥 My Repositories
+This list only contains open-source repositories!
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
 
