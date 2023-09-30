@@ -61,6 +61,7 @@ This list only contains open-source repositories!
 ### 5. StormShop-Project
 
 <blockquote>Uncompleted StormShop website. This is a shop that sells Nitro, Netflix and other subscriptions to Russian Users unable to purchase them. Also sells scripts for various needs. Website contains main page, page with scripts, search bar and feature to add articles</blockquote>
+<img src="https://github.com/FLEYreal/Storm-Shop-Project/blob/frontend/README/main_page.png" alt="Image of StormShop website"/>
 
 <a href="https://github.com/FLEYreal/Storm-Shop-Project"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
