@@ -49,16 +49,7 @@ This list only contains open-source repositories!
 <a href="https://github.com/FLEYreal/SAS-Discord-Bot"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/Python-lang?logo=python&logoColor=%23fff&labelColor=%23376c99&color=%23376c99)
 
-### 4. YouTube-Chat-Bot
-
-<blockquote>The chat-bot for streamers on youtube which monitors all user's messages and adds points for activity, saves these points to SQL database and then they can be used to buy stuff of the website</blockquote>
-
-<a href="https://github.com/FLEYreal/YouTube-Chat-Bot"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
-![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
-![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
-![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
-
-### 5. HatBuilders-Website
+### 4. HatBuilders-Website
 
 <blockquote>A Commertial Website for the Project of HatBuilders. The project that creates big buildings in Minecraft</blockquote>
 
@@ -67,16 +58,26 @@ This list only contains open-source repositories!
 ![Static Badge](https://img.shields.io/badge/MaterialUI-lang?logo=mui&logoColor=%23fff&labelColor=%23007cf8&color=%23007cf8)
 ![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
 
-### 6. StormShop-Project
+### 5. StormShop-Project
 
 <blockquote>Uncompleted StormShop website. This is a shop that sells Nitro, Netflix and other subscriptions to Russian Users unable to purchase them. Also sells scripts for various needs. Website contains main page, page with scripts, search bar and feature to add articles</blockquote>
 
 <a href="https://github.com/FLEYreal/Storm-Shop-Project"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
+![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
+![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
 ![Static Badge](https://img.shields.io/badge/React-lang?logo=react&logoColor=%235ed3f3&labelColor=%23000&color=%23000)
 ![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
-![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
 ![Static Badge](https://img.shields.io/badge/MaterialUI-lang?logo=mui&logoColor=%23fff&labelColor=%23007cf8&color=%23007cf8)
+
+### 6. CodeWave Hub
+
+<blockquote>This project is under development, so I have no information for you aboput it, yet...</blockquote>
+
+![Static Badge](https://img.shields.io/badge/React-lang?logo=react&logoColor=%235ed3f3&labelColor=%23000&color=%23000)
+![Static Badge](https://img.shields.io/badge/MaterialUI-lang?logo=mui&logoColor=%23fff&labelColor=%23007cf8&color=%23007cf8)
+![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
+![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
 ![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
 
 </details>
