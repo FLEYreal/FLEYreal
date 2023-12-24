@@ -74,7 +74,7 @@ This list only contains open-source repositories!
 
 ### 6. CodeWave Hub
 
-<blockquote>This project is under development, so I have no information for you aboput it, yet...</blockquote>
+<blockquote>CodeWave Hub provides development services. Its key feature is combination of Freelance and Dev Studios.</blockquote>
 <img src="assets/images/codewave.png" alt="Image of CodeWave website" width="800px"/>
 
 ![Static Badge](https://img.shields.io/badge/React-lang?logo=react&logoColor=%235ed3f3&labelColor=%23000&color=%23000)
@@ -82,5 +82,17 @@ This list only contains open-source repositories!
 ![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
 ![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
+
+### 7. LightShot-Parser
+
+<blockquote>Parse LightShot to get random screenshot made by people using lightshot. Free to use!</blockquote>
+<img src="assets/images/codewave.png" alt="Image of CodeWave website" width="800px"/>
+
+![Static Badge](https://img.shields.io/badge/React-lang?logo=react&logoColor=%235ed3f3&labelColor=%23000&color=%23000)
+![Static Badge](https://img.shields.io/badge/MaterialUI-lang?logo=mui&logoColor=%23fff&labelColor=%23007cf8&color=%23007cf8)
+![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
+![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
+![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
+
 
 </details>
