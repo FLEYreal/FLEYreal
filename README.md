@@ -85,7 +85,7 @@ This list only contains open-source repositories!
 
 ### 7. LightShot-Parser
 
-<blockquote>Parse LightShot to get random screenshot made by people using lightshot. Free to use!</blockquote>
+<blockquote>Parses LightShot to get random screenshots made by people using lightshot app. Free to use! All docs of usage are in README.md</blockquote>
 
 <a href="https://github.com/FLEYreal/LightShot-Parser"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/Python-lang?logo=python&logoColor=%23fff&labelColor=%23376c99&color=%23376c99)
