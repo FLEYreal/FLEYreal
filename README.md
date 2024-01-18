@@ -51,7 +51,7 @@ This list only contains open-source repositories!
 
 ### 4. HatBuilders-Website
 
-<blockquote>A Commertial Website for the Project of HatBuilders. The project that creates big buildings in Minecraft</blockquote>
+<blockquote>Website for my Project: HatBuilders. We're creating the best minecraft buildings for other projects, servers and ordinary players.</blockquote>
 
 <a href="https://github.com/FLEYreal/HatBuilders-Website"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/NextJS-lang?logo=react&logoColor=%23fff&labelColor=%23c42525&color=%23c42525)
