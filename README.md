@@ -52,6 +52,7 @@ This list only contains open-source repositories!
 ### 4. HatBuilders-Website
 
 <blockquote>Website for my Project: HatBuilders. We're creating the best minecraft buildings for other projects, servers and ordinary players.</blockquote>
+<img src="assets/images/hatbuilders.png" alt="Image of HatBuilders website" width="800px"/>
 
 <a href="https://github.com/FLEYreal/HatBuilders-Website"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/NextJS-lang?logo=react&logoColor=%23fff&labelColor=%23c42525&color=%23c42525)
@@ -61,7 +62,7 @@ This list only contains open-source repositories!
 ### 5. StormShop-Project
 
 <blockquote>Uncompleted StormShop website. This is a shop that sells Nitro, Netflix and other subscriptions to Russian Users unable to purchase them. Also sells scripts for various needs. Website contains main page, page with scripts, search bar and feature to add articles</blockquote>
-<img src="https://github.com/FLEYreal/Storm-Shop-Project/blob/frontend/README/main_page.png" alt="Image of StormShop website"/>
+<img src="assets/images/stormshop.png" alt="Image of StormShop website" width="800px"/>
 
 <a href="https://github.com/FLEYreal/Storm-Shop-Project"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
 ![Static Badge](https://img.shields.io/badge/MySQL-lang?logo=mysql&logoColor=%23fff&labelColor=%23e48e00&color=%23e48e00)
@@ -73,12 +74,21 @@ This list only contains open-source repositories!
 
 ### 6. CodeWave Hub
 
-<blockquote>This project is under development, so I have no information for you aboput it, yet...</blockquote>
+<blockquote>CodeWave Hub provides development services. Its key feature is combination of Freelance and Dev Studios.</blockquote>
+<img src="assets/images/codewave.png" alt="Image of CodeWave website" width="800px"/>
 
 ![Static Badge](https://img.shields.io/badge/React-lang?logo=react&logoColor=%235ed3f3&labelColor=%23000&color=%23000)
 ![Static Badge](https://img.shields.io/badge/MaterialUI-lang?logo=mui&logoColor=%23fff&labelColor=%23007cf8&color=%23007cf8)
 ![Static Badge](https://img.shields.io/badge/NodeJS-green?logo=javascript&logoColor=%23fff&labelColor=%233c823b&color=%233c823b)
 ![Static Badge](https://img.shields.io/badge/JavaScript-f7ae00?logo=javascript&logoColor=%23fff&labelColor=%23f7ae00&color=%23f7ae00)
 ![Static Badge](https://img.shields.io/badge/TypeScript-lang?logo=typescript&logoColor=%23fff&labelColor=%232f74c0&color=%232f74c0)
+
+### 7. LightShot-Parser
+
+<blockquote>Parses LightShot to get random screenshots made by people using lightshot app. Free to use! All docs of usage are in README.md</blockquote>
+
+<a href="https://github.com/FLEYreal/LightShot-Parser"><img alt="Static Badge" src="https://img.shields.io/badge/Repository-8A2BE2?logo=github&logoColor=%23ffffff&labelColor=8A2BE2"></a>
+![Static Badge](https://img.shields.io/badge/Python-lang?logo=python&logoColor=%23fff&labelColor=%23376c99&color=%23376c99)
+
 
 </details>
