@@ -34,7 +34,7 @@
 </details>
 
 ## 🔥 My Repositories
-This list only contains open-source repositories!
+The list of the project I've done and currently working on!
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
 
