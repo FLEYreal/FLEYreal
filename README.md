@@ -51,6 +51,7 @@ This list only contains open-source repositories!
 ### <a href="https://github.com/FLEYreal/Browser-Home">3. Browser-Home</a>
 
 <blockquote>This is a convenient replacement for basic browser's home page. It's mostly for personal usage but you can also use it if you want to. It will be integrated with my another project: Social AI that will be able to copy my behaviour and answer to message in discord / telegram while I'm idle.</blockquote>
+<img src="assets/images/browser-home.png" alt="Image of StormShop website" width="800px"/>
 
 ### <a href="https://github.com/FLEYreal/ChatGPT-Assistant">3. ChatGPT-Assistant</a>
 
