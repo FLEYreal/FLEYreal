@@ -50,7 +50,7 @@ The list of the project I've done and currently working on!
 
 ### 2. CodeWave Hub
 
-<blockquote>CodeWave Hub provides development services. Its key feature is combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed. Version of website is uploaded to vercel here: https://code-wave-frontend.vercel.app/</blockquote>
+<blockquote>CodeWave Hub provides development services. Its key feature is combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed. Version of website is uploaded to vercel here: https://codewave-hub.ru</blockquote>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,7 +72,7 @@ The list of the project I've done and currently working on!
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="assets/images/browser-home.png" alt="Image of StormShop website" width="800px"/>
+<img src="assets/images/browser-home.png" alt="Image of Browser-Home" width="800px"/>
 
 ### <a href="https://github.com/FLEYreal/ChatGPT-Assistant">4. ChatGPT-Assistant</a>
 
@@ -95,7 +95,17 @@ The list of the project I've done and currently working on!
 
 <img src="assets/images/stormshop.png" alt="Image of StormShop website" width="800px"/>
 
-### <a href="https://github.com/FLEYreal/Discord-Message-Spammer">6. Discord-Message-Spammer</a>
+### <a href="https://github.com/FLEYreal/Video-Player">6. Video-Player</a>
+
+<blockquote>Convenient video player with a lot of features, see show case here: https://video-player-rust.vercel.app/</blockquote>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+<img src="assets/images/video-player.png" alt="Image of Video Player" width="800px"/>
+
+### <a href="https://github.com/FLEYreal/Discord-Message-Spammer">7. Discord-Message-Spammer</a>
 
 <blockquote>This is a discord bot, that can send notifications to all users of discord server it's located. Can be used for mailing to everyone. Bot also has filters, message can be sent to exact role. Has API to send notification with. Project was mde with NodeJS & Express.JS & Typescript</blockquote>
 
@@ -103,13 +113,13 @@ The list of the project I've done and currently working on!
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### <a href="https://github.com/FLEYreal/SAS-Discord-Bot">7. SAS-Discord-Bot</a>
+### <a href="https://github.com/FLEYreal/SAS-Discord-Bot">8. SAS-Discord-Bot</a>
 
 <blockquote>This is a discord bot, that uses API of steam and cs:go to get information about XP of the steam users, sends custom message to discord as XP updated!</blockquote>
 
 ![Python](https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=ffffff)
 
-### <a href="https://github.com/FLEYreal/LightShot-Parser">8. LightShot-Parser</a>
+### <a href="https://github.com/FLEYreal/LightShot-Parser">9. LightShot-Parser</a>
 
 <blockquote>Parses LightShot to get random screenshots made by people using lightshot app. Free to use! All docs of usage are in README.md</blockquote>
 
