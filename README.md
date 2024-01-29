@@ -126,3 +126,5 @@ The list of the project I've done and currently working on!
 ![Python](https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=ffffff)
 
 </details>
+
+### 🔥 See My Resume Page <a href="https://fleyreal.github.io/">here</a>!
