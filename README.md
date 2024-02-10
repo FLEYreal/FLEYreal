@@ -49,7 +49,7 @@ The list of the project I've done and currently working on!
 
 <img src="assets/images/hatbuilders.png" alt="Image of HatBuilders website" width="800px"/>
 
-### 2. CodeWave Hub
+### 2. CodeWave
 
 <blockquote>CodeWave Hub provides development services. Its key feature is combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed. Version of website is uploaded to vercel here: https://codewave-hub.ru</blockquote>
 
