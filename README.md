@@ -99,7 +99,7 @@ The list of the project I've done and currently working on!
 
 ### <a href="https://github.com/FLEYreal/Music-Player">6. Music-Player</a>
 
-<blockquote>Music player widget with a lot of features, see show case here: music-player-eta-one.vercel.app</blockquote>
+<blockquote>Music player widget with a lot of features, see show case here: https://music-player-eta-one.vercel.app</blockquote>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
