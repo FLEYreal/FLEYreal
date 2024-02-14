@@ -52,7 +52,7 @@ The list of the project I've done and currently working on!
 
 ### 2. CodeWave
 
-<blockquote>CodeWave Hub provides development services. Its key feature is combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed. Version of website is uploaded to vercel here: https://codewave-hub.ru</blockquote>
+<blockquote>Failed startup CodeWave Hub that provides development services. Its key feature was a combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed a long time ago but version of website is uploaded here: https://codewave-hub.ru</blockquote>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
