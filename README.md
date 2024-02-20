@@ -130,7 +130,7 @@ The list of the project I've done and currently working on!
 
 ### <a href="https://github.com/FLEYreal/Discord-Message-Spammer">8. Discord-Message-Spammer</a>
 
-<blockquote>This is a discord bot, that can send notifications to all users of discord server it's located. Can be used for mailing to everyone. Bot also has filters, message can be sent to exact role. Has API to send notification with. Project was mde with NodeJS & Express.JS & Typescript</blockquote>
+<blockquote>This is a discord bot, that can send notifications to all users of discord server it's located. Can be used for mailing to everyone. Bot also has filters, message can be sent to exact role. Has API to send notification with. Project was mde with NodeJS & Express.JS & Typescript!</blockquote>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
