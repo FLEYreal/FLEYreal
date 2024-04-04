@@ -50,7 +50,7 @@
 ![SQLLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🔥 Portfolio
-The list of the project I've done and currently working on!
+The list of the projects I've done and currently working on!
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
 
