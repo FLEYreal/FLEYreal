@@ -52,7 +52,7 @@
 ## 🔥 Portfolio
 The list of the project I've done and currently working on!
 <details>
-<summary><button><kbd><kbd>CLICK</kbd> to expand!</kbd></button></summary>
+<summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
 
 ### <a href="https://github.com/FLEYreal/HatBuilders-Website">1. HatBuilders-Website</a>
 
