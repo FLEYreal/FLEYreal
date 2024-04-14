@@ -44,8 +44,7 @@ A Frontend developer, also learning ML development! You can contact me here: @Du
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🔥 Portfolio
-The list of the projects I've done and currently working on!
+## 🔥 My Portfolio
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
 
