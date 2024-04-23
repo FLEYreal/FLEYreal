@@ -60,7 +60,7 @@ A Frontend developer, also learning ML development! You can contact me here: @Du
 
 ### 2. CodeWave
 
-<blockquote>Failed startup CodeWave Hub that provides development services. Its key feature was a combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed a long time ago but version of website is uploaded here: https://codewave-hub.ru</blockquote>
+<blockquote>A Failed startup CodeWave Hub that provides development services. Its key feature was a combination of Freelance and Dev Studios. Unfortunetely though, the project has been closed a long time ago but version of website is uploaded here: https://codewave-hub.ru</blockquote>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
