@@ -1,5 +1,5 @@
 ## 🔥 About
-A Frontend developer, also learning ML development! You can contact me here: @DuckWatchingAirplane (Telegram)
+A Frontend developer, also learning ML development! You can contact me here: @DuckWatchingAirplane (Telegram).
 
 ## 🔥 Skills
 
