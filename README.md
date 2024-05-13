@@ -24,6 +24,7 @@ A Fullstack developer! You can contact me in telegram: @DuckWatchingAirplane
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![RollUp](https://img.shields.io/badge/rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <b>LIBS & FRAMEWORKS:</b>
