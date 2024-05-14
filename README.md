@@ -1,5 +1,5 @@
 ## 🔥 About
-A Fullstack developer! You can contact me in telegram: @DuckWatchingAirplane
+React / Node.JS Full-Stack Developer! You can contact me in telegram: @DuckWatchingAirplane
 
 ## 🔥 Skills
 
