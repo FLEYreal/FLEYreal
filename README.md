@@ -45,7 +45,7 @@ React / Node.JS Full-Stack Developer! You can contact me on telegram: @DuckWatch
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🔥 My Portfolio
+## 🔥 Portfolio
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
 
