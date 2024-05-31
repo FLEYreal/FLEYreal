@@ -1,5 +1,9 @@
 ## 🔥 About
-React // Node.JS Full-Stack Developer! You can contact me on telegram: @DuckWatchingAirplane
+React // Node.JS Full-Stack Developer!
+
+You can contact me here:
+Telegram: @DuckWatchingAirplane
+Discord: fley0609
 
 ## 🔥 Skills
 
