@@ -1,5 +1,5 @@
 ## 🔥 About Me
-React & Node.JS Full-Stack Developer!
+**React** & **Node.JS** Full-Stack Developer!
 
 **You can contact me here:** <br/>
 **Telegram:** @DuckWatchingAirplane <br/>
