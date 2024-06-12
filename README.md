@@ -1,11 +1,11 @@
-## 🔥 About Me
+## ✨ About Me
 React & Node.JS Full-Stack Developer!
 
 **You can contact me here:** <br/>
 **Telegram:** @DuckWatchingAirplane <br/>
 **Discord:** fley0609
 
-## 🔥 Skills
+## ✨ Skills
 
 <b>LANGUAGES & OTHER:</b>
 
@@ -49,7 +49,7 @@ React & Node.JS Full-Stack Developer!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🔥 Portfolio
+## ✨ Portfolio
 <details>
 <summary><button><kbd><kbd>CLICK</kbd> to see the portfolio!</kbd></button></summary>
 
