@@ -1,11 +1,11 @@
-## ✨ About Me
+## ✨ About Me :
 React // Node.JS Full-Stack Developer!
 
 **You can contact me here:** <br/>
 **Telegram:** @DuckWatchingAirplane <br/>
 **Discord:** fley0609
 
-## ✨ Skills
+## ✨ Skills :
 
 <b>LANGUAGES & OTHER:</b>
 
