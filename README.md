@@ -7,7 +7,7 @@ React // Node.JS Full-Stack Developer!
 
 ## ✨ Skills :
 
-<b>LANGUAGES & OTHER:</b>
+<b>LANGUAGES & OTHER :</b>
 
 ![Python](https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -17,7 +17,7 @@ React // Node.JS Full-Stack Developer!
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<b>TECHNOLOGIES & TOOLS:</b>
+<b>TECHNOLOGIES & TOOLS :</b>
 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -31,7 +31,7 @@ React // Node.JS Full-Stack Developer!
 ![RollUp](https://img.shields.io/badge/rollup%20js-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<b>LIBS & FRAMEWORKS:</b>
+<b>LIBRARIES & FRAMEWORKS :</b>
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -42,7 +42,7 @@ React // Node.JS Full-Stack Developer!
 ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-<b>DATABASES:</b>
+<b>DATABASES :</b>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
