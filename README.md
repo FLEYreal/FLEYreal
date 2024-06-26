@@ -1,6 +1,6 @@
 ## ✨ About Me :
 - **React** // **Node.JS** Full-Stack (Mainly Frontend) Developer!
-- 2 Years of commercial // freelance experience!
+- 2+ Years of commercial // freelance experience!
 
 **You can contact me here:** <br/>
 - **Telegram:** @DuckWatchingAirplane <br/>
